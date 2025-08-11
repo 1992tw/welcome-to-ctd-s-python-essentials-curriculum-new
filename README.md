@@ -1,2 +1,3 @@
-# welcome-to-ctd-s-python-essentials-curriculum-new
-No description available
+# README.md
+
+Content will be fetched from original repository during export.
